@@ -6,7 +6,7 @@ const override = {
   margin: "100px auto",
 };
 
-const Spinners = () => {
+const Spinner = () => {
   return;
   <ClipLoader
     color="#4338ca"
@@ -16,4 +16,4 @@ const Spinners = () => {
   />;
 };
 
-export default Spinners;
+export default Spinner;
